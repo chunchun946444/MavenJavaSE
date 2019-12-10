@@ -14,8 +14,8 @@ public class AppTest
      */
     @Test
     public void shouldAnswerWithTrue()
-    {   
-        
+    {
+        System.out.println("zhe 是ideashang deneirong ");
         System.out.println("github上添加的内容！");
         assertTrue( true );
     }
